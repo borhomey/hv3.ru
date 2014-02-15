@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://hv3.ru/sitemap.xml 
